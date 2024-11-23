@@ -1,0 +1,12 @@
+.status {
+  margin-left: auto;
+  font-size: 12px;
+}
+
+.status.online {
+  color: green;
+}
+
+.status.offline {
+  color: red;
+}
